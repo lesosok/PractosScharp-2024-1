@@ -1,0 +1,20 @@
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\bin\Debug\net6.0-windows\Практическая 2024 №1 Scharp.exe
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\bin\Debug\net6.0-windows\Практическая 2024 №1 Scharp.deps.json
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\bin\Debug\net6.0-windows\Практическая 2024 №1 Scharp.runtimeconfig.json
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\bin\Debug\net6.0-windows\Практическая 2024 №1 Scharp.dll
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\bin\Debug\net6.0-windows\Практическая 2024 №1 Scharp.pdb
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp_MarkupCompile.cache
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp_MarkupCompile.lref
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.g.resources
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.AssemblyInfoInputs.cache
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.AssemblyInfo.cs
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.csproj.CoreCompileInputs.cache
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.dll
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\refint\Практическая 2024 №1 Scharp.dll
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.pdb
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\Практическая 2024 №1 Scharp.genruntimeconfig.cache
+C:\Users\Leefaut\source\repos\Практическая 2024 №1 Scharp\Практическая 2024 №1 Scharp\obj\Debug\net6.0-windows\ref\Практическая 2024 №1 Scharp.dll

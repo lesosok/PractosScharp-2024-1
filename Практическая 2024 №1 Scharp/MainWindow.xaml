@@ -1,0 +1,23 @@
+﻿<Window x:Class="Практическая_2024__1_Scharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая_2024__1_Scharp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="A1" Content="" HorizontalAlignment="Left" Margin="225,44,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="B1" Content="" HorizontalAlignment="Left" Margin="225,154,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="C1" Content="" HorizontalAlignment="Left" Margin="225,261,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="A2" Content="" HorizontalAlignment="Center" Margin="0,44,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="B2" Content="" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="C2" Content="" HorizontalAlignment="Center" Margin="0,261,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="A3" Content="" HorizontalAlignment="Left" Margin="475,44,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="B3" Content="" HorizontalAlignment="Left" Margin="475,154,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="C3" Content="" HorizontalAlignment="Left" Margin="475,261,0,0" VerticalAlignment="Top" Width="100" Height="100" Click="AllButtons_Click" FontSize="36"/>
+        <Button x:Name="NewGame" Content="Новая игра" HorizontalAlignment="Center" Margin="0,374,0,0" VerticalAlignment="Top" Width="350" Height="50" Click="NewGame_Click"/>
+        <TextBlock x:Name="Shower" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Крестики-нолики" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
